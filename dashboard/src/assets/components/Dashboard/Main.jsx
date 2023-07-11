@@ -1,8 +1,9 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import icon1 from '../components/images/icon1.png'
+import icon1 from './images/icon1.png'
 import { faPaperPlane } from '@fortawesome/free-solid-svg-icons'
 import chart from './images/Chart.png'
 import frame from './images/frame.png'
+
 
 const Main =()=>{
     return(

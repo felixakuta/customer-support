@@ -1,7 +1,7 @@
 
-import logo from '../images/icon.png'
-import Notification from '../images/Notification.png'
-import profile from '../images/profile.png'
+import logo from '../Dashboard/images/icon.png'
+import Notification from '../Dashboard/images/Notification.png'
+import profile from '../Dashboard/images/profile.png'
 
 const Header =()=>{
     return(
